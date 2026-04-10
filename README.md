@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avinash8600/Avinash8600/main/devops-banner.png" width="100%" />
+  <img src=["https://raw.githubusercontent.com/Avinash8600/Avinash8600/main/devops-banner.png"](https://chatgpt.com/s/m_69d90ccbdc08819192f225117074d18e) width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sagar Jadhav</h1>
