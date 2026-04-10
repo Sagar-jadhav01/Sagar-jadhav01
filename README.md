@@ -105,11 +105,11 @@
 <h2 align="center">🧠 Core Data Engineering Languages & Tools</h2>
 
 <p align="center">
-  🐍 <b>Python</b> → Data processing, ETL pipelines, automation <br><br>
-  🗄️ <b>SQL</b> → Data querying, transformation, analytics <br><br>
-  ⚡ <b>PySpark</b> → Big data processing & distributed computing <br><br>
-  📊 <b>Pandas</b> → Data manipulation & analysis <br><br>
-  🐧 <b>Bash</b> → Scripting & workflow automation
+  <b>🐍 Python</b> — Data processing, ETL pipelines, automation<br>
+  <b>🗄️ SQL</b> — Data querying, transformation, analytics<br>
+  <b>⚡ PySpark</b> — Big data processing & distributed computing<br>
+  <b>📊 Pandas</b> — Data manipulation & analysis<br>
+  <b>🐧 Bash</b> — Scripting & workflow automation
 </p>
 ---
 
