@@ -102,8 +102,14 @@
 
 ## 📈 Most Used Languages
 
+<h2 align="center">🧠 Core Data Engineering Languages & Tools</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-jadhav01&layout=compact&theme=tokyonight&langs_count=6&hide=html,css&custom_title=Data%20Engineering%20Languages" />
+  🐍 <b>Python</b> → Data processing, ETL pipelines, automation <br><br>
+  🗄️ <b>SQL</b> → Data querying, transformation, analytics <br><br>
+  ⚡ <b>PySpark</b> → Big data processing & distributed computing <br><br>
+  📊 <b>Pandas</b> → Data manipulation & analysis <br><br>
+  🐧 <b>Bash</b> → Scripting & workflow automation
 </p>
 ---
 
