@@ -78,8 +78,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sagar-jadhav01&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Sagar-jadhav01&theme=tokyonight" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sagar-jadhav01&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar-jadhav01 & theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar-jadhav01&theme=tokyo-night" />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sagar-jadhav01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -114,10 +114,10 @@
   <a href="www.linkedin.com/in/sagar-jadhav-7804302b4">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sagarjadhav41200@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Sagar-jadhav01">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
