@@ -102,7 +102,9 @@
 
 ## 📈 Most Used Languages
 
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sagar-jadhav01&layout=compact&theme=tokyonight" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-jadhav01&layout=compact&theme=tokyonight&langs_count=6&hide=html,css&custom_title=Data%20Engineering%20Languages" />
+</p>
 ---
 
 ## 🌐 Connect With Me
