@@ -6,7 +6,8 @@
 <h3 align="center">☁️ Cloud Data Engineer | Python | AWS | Data Pipelines | Big Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Data+Engineer;Python+%7C+AWS+%7C+SQL;Data+Pipelines+%7C+ETL;Always+Learning+New+Technologies" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Data+Engineer;Python+%7C+AWS+%7C+SQL;Data+Pipelines+%7C+ETL;Always+Learning+New+Technologies" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=F700FF&center=true&vCenter=true&width=600&lines=Cloud+Data+Engineer;Python+%7C+AWS+%7C+SQL;Data+Pipelines+%7C+ETL;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
