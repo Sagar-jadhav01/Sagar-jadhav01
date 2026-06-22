@@ -117,7 +117,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sagar-jadhav-7804302b4"/>
+  <a href=https://www.linkedin.com/in/sagar-jadhav-7804302b4/>
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sagarjadhav41200@gmail.com">
